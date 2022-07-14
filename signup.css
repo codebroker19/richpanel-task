@@ -1,0 +1,24 @@
+.overridecss {
+    width: 50%;
+    margin: auto;
+    top: 50px;
+}
+
+.card {
+    top: 50px;
+    top: 50px;
+    margin: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    max-width: 650px;
+}
+
+.register {
+    margin-top: 12px;
+}
+
+.buttom {
+    margin-top: 12px;
+}
